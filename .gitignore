@@ -9,3 +9,5 @@
 /.nrepl-port
 .hgignore
 .hg/
+
+verified_contracts.edn
